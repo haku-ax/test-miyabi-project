@@ -2,6 +2,19 @@
 
 Autonomous development powered by **Miyabi** - AI-driven development framework.
 
+## Known Issues & Notes
+
+### Disabled Workflows (2025-10-21)
+
+⚠️ The following workflows are temporarily disabled due to missing script files:
+- `webhook-event-router.yml.disabled`
+- `webhook-handler.yml.disabled`
+
+**Impact**: None on basic Agent functionality.
+**Details**: See `.github/workflows/README.md` and `TODO.md` for re-enablement steps.
+
+---
+
 ## Getting Started
 
 ### Prerequisites
